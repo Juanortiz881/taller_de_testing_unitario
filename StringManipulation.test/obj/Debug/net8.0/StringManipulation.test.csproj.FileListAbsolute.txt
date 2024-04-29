@@ -1,0 +1,6 @@
+C:\Users\Juan Andrés Ortiz\Documents\GitHub\UnitTestingXUnit\StringManipulation.test\obj\Debug\net8.0\StringManipulation.test.csproj.AssemblyReference.cache
+C:\Users\Juan Andrés Ortiz\Documents\GitHub\UnitTestingXUnit\StringManipulation.test\obj\Debug\net8.0\StringManipulation.test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Andrés Ortiz\Documents\GitHub\UnitTestingXUnit\StringManipulation.test\obj\Debug\net8.0\StringManipulation.test.AssemblyInfoInputs.cache
+C:\Users\Juan Andrés Ortiz\Documents\GitHub\UnitTestingXUnit\StringManipulation.test\obj\Debug\net8.0\StringManipulation.test.AssemblyInfo.cs
+C:\Users\Juan Andrés Ortiz\Documents\GitHub\UnitTestingXUnit\StringManipulation.test\obj\Debug\net8.0\StringManipulation.test.csproj.CoreCompileInputs.cache
+C:\Users\Juan Andrés Ortiz\Documents\GitHub\UnitTestingXUnit\StringManipulation.test\obj\Debug\net8.0\StringManipulation.test.sourcelink.json
